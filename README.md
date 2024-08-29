@@ -1,4 +1,5 @@
 # Forgend: Affina la Tua Strategia con "Forge Trend"
+Cerca,Crea e pubblica contenuti automaticamente.
 
 ![Forgend Logo](https://via.placeholder.com/150x150.png?text=Forgend+Logo)
 
