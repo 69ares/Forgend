@@ -6,35 +6,35 @@ Leverage artificial intelligence to revolutionize the creation, optimization, an
 
 ### Key Features:
 
-1. **Intelligent Content Extraction**:
+1. **Content extraction**:
    - Automatic parsing of RSS and Atom feeds
    - Advanced web scraping for non-standard sources
    - Integration with social media APIs for extracting viral posts
    - Trend extraction from Google Trends
 
-2. **Advanced SEO Processing**:
+2. **Advanced SEO processing**:
    - Reworking content according to SEO guidelines
    - Automatic optimization of meta tags, titles, descriptions, hashtags, keywords, and schema markup
    - Semantic analysis for natural keyword insertion in generated content
 
-3. **AI-Powered Content Generation**:
+3. **AI-Powered content generation**:
    - Creation of articles, posts, and captions using advanced language models
    - Hashtag generator based on trends and context analysis
    - Keyword suggestions to maximize visibility
 
-4. **Automated Multichannel Publishing**:
+4. **Automated multichannel publishing**:
    - Integration with popular social media platforms and CMS
    - Intelligent scheduling based on engagement analysis
    - Automatic content adaptation for each platform
 
-5. **Performance Analysis and Optimization** (**Work in Progress**):
+5. **Performance analysis and optimization** (**Work in Progress**):
    - Real-time monitoring of engagement
    - Detailed reports and actionable insights
    - AI-driven suggestions for continuous strategy improvement
 
 ## Roadmap
 
-### Phase 1 - Core Features
+### Phase 1 - Core features
 - [x] User interface creation 
 - [x] Content extraction from RSS feeds
 - [x] Content extraction from Google Trends
@@ -44,7 +44,7 @@ Leverage artificial intelligence to revolutionize the creation, optimization, an
 - [x] Sentiment personalization of content
 - [ ] Content extraction from generic websites (scraping)
 
-### Phase 2: Expansion and Optimization (In Progress)
+### Phase 2: Expansion and optimization (In Progress)
 - [x] Ongoing improvement of SEO techniques for websites
 - [ ] Implementation of advanced performance analysis insights
 - [ ] Integration with additional social media platforms and CMS
@@ -54,13 +54,13 @@ Leverage artificial intelligence to revolutionize the creation, optimization, an
 - **Intelligent Temporal Orchestration**:
   - [ ] Analyze real-time social media trends to optimize publication timing, maximizing engagement and visibility.
 
-- **Precision Laser Feed Extraction**:
+- **Precision laser feed Extraction**:
   - [ ] Define ultra-specific criteria to ensure the selection of the most relevant and high-quality content.
 
-- **Advanced Visual Manipulation**:
+- **Advanced visual manipulation**:
   - [ ] Modify, enhance, or generate completely new images for every post to be published.
 
-### Phase 4: Refinement and Scalability (Future)
+### Phase 4: Refinement and scalability (Future)
 - [ ] Implementation of a real-time performance analysis system with actionable suggestions
 - [ ] Expansion of visual content generation capabilities (video, audio)
   
