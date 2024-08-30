@@ -4,9 +4,8 @@ Cerca,Crea e pubblica contenuti automaticamente.
 Fornisci indicazioni su dove (blog,piattaforme social, gruppi telegram) e cosa ricercare, (news, articoli, argomenti..)  creando post unici e di carattere sotto tue specifiche indicazioni (sii critico, usa un tono simpatico ...) per poi essere pubblicati sulle piattaforme che preferisci in maniera completamente automatica.
 
 # Project
-[Link al progetto] (https://github.com/users/69ares/projects/3)
+![Link al progetto](https://github.com/users/69ares/projects/3)
 
-![Forgend Logo](https://via.placeholder.com/150x150.png?text=Forgend+Logo)
 
 ## Descrizione del progetto
 
