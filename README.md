@@ -10,6 +10,56 @@ Fornisci indicazioni su dove (blog,piattaforme social, gruppi telegram) e cosa r
 
 [RoadMap - Size Task](https://github.com/users/69ares/projects/6)
 
+# Scenari
+
+1. **Feed**
+   - Descrizione: Una panoramica della sezione del feed, dove sono visibili i post più recenti e le attività del sito.
+   - [Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/feed.png)
+
+2. **Istruzioni Crypto**
+   - Descrizione: Sezione dedicata alle istruzioni per gestire le operazioni di criptovaluta all'interno del sito.
+   - [Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/istr_crypto.png)
+
+3. **Istruzioni Generali**
+   - Descrizione: Pagina che fornisce istruzioni generali per l'utilizzo del sito e delle sue funzionalità.
+   - [Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/istruzioni.png)
+
+4. **Modifica Contenuto Post**
+   - Descrizione: Interfaccia per la modifica del contenuto di un post già pubblicato.
+   - [Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/modifica_content_post.png)
+
+5. **Modifica Istruzioni**
+   - Descrizione: Sezione per la modifica delle istruzioni esistenti sul sito.
+   - [Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/modifica_istruzioni.png)
+
+6. **Modifica Post**
+   - Descrizione: Strumento per modificare i dettagli di un post esistente.
+   - [Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/modifica_post.png)
+
+7. **Modifica Post Social**
+   - Descrizione: Funzionalità per modificare la condivisione e la visualizzazione dei post sui social media.
+   - [Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/modifica_post_social.png)
+
+8. **Post**
+   - Descrizione: Vista dettagliata di un post pubblicato sulla piattaforma.
+   - [Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/post.png)
+
+9. **Pubblica Post**
+   - Descrizione: Interfaccia per la pubblicazione di nuovi post sul sito.
+   - [Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/pubblica_post.png)
+
+10. **Roadmap**
+    - Descrizione: La roadmap del progetto, che mostra le fasi di sviluppo e gli obiettivi futuri.
+    - [Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/roadmap.png)
+
+11. **Selezione Trend**
+    - Descrizione: Strumento per selezionare e monitorare i trend attuali.
+    - [Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/selezione_trend.png)
+
+12. **Trends**
+    - Descrizione: Panoramica dei trend attuali visualizzati sulla piattaforma.
+    - [Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/trends.png)
+
 
 ## Descrizione del progetto
 
