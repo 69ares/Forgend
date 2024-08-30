@@ -1,7 +1,7 @@
 # Forgend: Cerca,Crea e pubblica contenuti automaticamente.
 
 
-Fornisci indicazioni su dove (blog,piattaforme social, gruppi telegram) e cosa ricercare, (news, articoli, argomenti..)  creando post unici e di carattere sotto tue specifiche indicazioni (sii critico, usa un tono simpatico ...) per poi essere pubblicati sulle piattaforme che preferisci in maniera completamente automatica.
+Fornisci indicazioni su dove (blog,piattaforme social, gruppi telegram) e cosa (news, articoli, argomenti..) ricercare, creando post unici e di carattere (sii critico, usa un tono simpatico ...) sotto tue specifiche indicazioni per poi essere pubblicati sulle piattaforme che preferisci in maniera completamente automatica.
 
 # Project Link
 [RoadMap - Priorità](https://github.com/users/69ares/projects/1)
