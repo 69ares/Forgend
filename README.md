@@ -130,3 +130,5 @@ Progettata per content creator, marketer e aziende di ogni dimensione, potenzia 
 - [ ] Implementazione di un sistema di analisi delle performance in tempo reale
 - [ ] Ottimizzazione dell'architettura per gestire volumi di dati e utenti in crescita
 
+# Contatti
+TG: @AresAK12
