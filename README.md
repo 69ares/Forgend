@@ -4,7 +4,9 @@ Cerca,Crea e pubblica contenuti automaticamente.
 Fornisci indicazioni su dove (blog,piattaforme social, gruppi telegram) e cosa ricercare, (news, articoli, argomenti..)  creando post unici e di carattere sotto tue specifiche indicazioni (sii critico, usa un tono simpatico ...) per poi essere pubblicati sulle piattaforme che preferisci in maniera completamente automatica.
 
 # Project
-[Progetto](https://github.com/users/69ares/projects/3)
+[RoadMap - Priorità](https://github.com/users/69ares/projects/1)
+[RoadMap - Progress](https://github.com/users/69ares/projects/2)
+[RoadMap - Size Task](https://github.com/users/69ares/projects/6)
 
 
 ## Descrizione del progetto
