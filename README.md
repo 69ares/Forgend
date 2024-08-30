@@ -95,19 +95,19 @@ Progettata per content creator, marketer e aziende di ogni dimensione, potenzia 
 
 ## Roadmap
 
-### Pronto all'utilizzo ✅
+### [Pronto all'utilizzo](https://github.com/users/69ares/projects/1) ✅
 
 - [x] Creazione dell'interfaccia utente
 - [x] Estrazione contenuti da feed RSS
 - [x] Estrazione contenuti da Google Trends
-- [x] Integrazione con le principali piattaforme social e CMS
 - [x] Creazione di contenuti SEO-specifici per ogni piattaforma
 - [x] Pianificazione della pubblicazione dei contenuti su social e blog
 - [x] Personalizzazione del sentiment dei contenuti
-- [x] Generazione e inserimento di immagini nei contenuti
 
-### Espansione e Ottimizzazione 🚀
 
+### [Espansione e Ottimizzazione](https://github.com/users/69ares/projects/1) 🚀
+- [ ] Integrazione con le principali piattaforme social e CMS
+- [ ] Generazione e inserimento di immagini nei contenuti
 - [ ] Miglioramento continuo delle tecniche SEO per siti web
 - [ ] Estrazione contenuti da siti web generici (scraping)
 - [ ] Implementazione di insights avanzati per l'analisi delle performance
@@ -115,7 +115,7 @@ Progettata per content creator, marketer e aziende di ogni dimensione, potenzia 
 - [ ] Personalizzazione avanzata del sentiment dei contenuti
 - [ ] Miglioramento della qualità e pertinenza delle immagini generate
 
-### Fase 3: Innovazione 🔮
+### [Innovazione](https://github.com/users/69ares/projects/1) 🔮
 
 - **Orchestrazione Temporale Intelligente**
   - [ ] Analisi in tempo reale delle tendenze sui social media per ottimizzare i tempi di pubblicazione
@@ -125,7 +125,7 @@ Progettata per content creator, marketer e aziende di ogni dimensione, potenzia 
   - [ ] Modifica, miglioramento o creazione di immagini completamente nuove per ogni post
   - [ ] Espansione delle capacità di generazione di contenuti visivi (video, audio)
 
-### Fase 4: Scalabilità 🚀
+### [Scalabilità](https://github.com/users/69ares/projects/1) 🚀
 
 - [ ] Implementazione di un sistema di analisi delle performance in tempo reale
 - [ ] Ottimizzazione dell'architettura per gestire volumi di dati e utenti in crescita
