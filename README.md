@@ -3,7 +3,7 @@ Cerca,Crea e pubblica contenuti automaticamente.
 
 Fornisci indicazioni su dove (blog,piattaforme social, gruppi telegram) e cosa ricercare, (news, articoli, argomenti..)  creando post unici e di carattere sotto tue specifiche indicazioni (sii critico, usa un tono simpatico ...) per poi essere pubblicati sulle piattaforme che preferisci in maniera completamente automatica.
 
-# Project
+# Project Link
 [RoadMap - Priorità](https://github.com/users/69ares/projects/1)
 
 [RoadMap - Progress](https://github.com/users/69ares/projects/2)
@@ -130,6 +130,3 @@ Progettata per content creator, marketer e aziende di ogni dimensione, potenzia 
 - [ ] Implementazione di un sistema di analisi delle performance in tempo reale
 - [ ] Ottimizzazione dell'architettura per gestire volumi di dati e utenti in crescita
 
-
-## Contatti
-Project Link: [https://github.com/69ares/Forgend] (https://github.com/69ares/forgend)
