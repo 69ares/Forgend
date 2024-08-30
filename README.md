@@ -1,12 +1,13 @@
 # Forgend: Affina la Tua Strategia con "Forge Trend"
 Cerca,Crea e pubblica contenuti automaticamente.
+Fornisci indicazioni su dove (blog,piattaforme social, gruppi telegram) e cosa ricercare, (news, articoli, argomenti..)  creando post unici e di carattere sotto tue specifiche indicazioni (sii critico, usa un tono simpatico ...) per poi essere pubblicati sulle piattaforme che preferisci in maniera completamente automatica.
 
 ![Forgend Logo](https://via.placeholder.com/150x150.png?text=Forgend+Logo)
 
 ## Descrizione del progetto
 
-Forgend sfrutta l'intelligenza artificiale per rivoluzionare la creazione, l'ottimizzazione e la distribuzione di contenuti digitali. 
-Progettata per content creator, marketer e aziende di ogni dimensione, questa soluzione integrata automatizza e potenzia ogni fase del processo di content marketing, infondendo la tua identità in ogni post.
+Forgend sfrutta l'intelligenza artificiale per la creazione, l'ottimizzazione e la distribuzione di contenuti digitali. 
+Progettata per content creator, marketer e aziende di ogni dimensione, potenzia ogni fase del processo di content marketing, creando post con la tua personalità.
 
 ### Caratteristiche Principali:
 
