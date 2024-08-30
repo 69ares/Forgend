@@ -14,7 +14,7 @@ Fornisci indicazioni su dove (blog,piattaforme social, gruppi telegram) e cosa r
 
 1. **Feed**
    - Descrizione: Una panoramica della sezione del feed, dove sono visibili i post più recenti e le attività del sito.
-   - [Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/feed.png)
+   - ![Visualizza immagine](https://github.com/69ares/Forgend/blob/main/img/feed.png)
 
 2. **Istruzioni Crypto**
    - Descrizione: Sezione dedicata alle istruzioni per gestire le operazioni di criptovaluta all'interno del sito.
