@@ -4,11 +4,11 @@
 Fornisci indicazioni su dove (blog,piattaforme social, gruppi telegram) e cosa (news, articoli, argomenti..) ricercare, creando post unici e di carattere (sii critico, usa un tono simpatico ...) sotto tue specifiche indicazioni per poi essere pubblicati sulle piattaforme che preferisci in maniera completamente automatica.
 
 # Project Link
-[RoadMap - Priorità](https://github.com/users/69ares/projects/1)
+[RoadMap - Priorità](https://github.com/users/69ares/projects/3/views/1)
 
-[RoadMap - Progress](https://github.com/users/69ares/projects/2)
+[RoadMap - Progress](https://github.com/users/69ares/projects/3/views/2)
 
-[RoadMap - Size Task](https://github.com/users/69ares/projects/6)
+[RoadMap - Size Task](https://github.com/users/69ares/projects/3/views/6)
 
 # Pannello
 
