@@ -1,5 +1,5 @@
 # Forgend: Cerca,Crea e pubblica contenuti automaticamente.
-
+ 
 
 Fornisci indicazioni su dove (blog,piattaforme social, gruppi telegram) e cosa (news, articoli, argomenti..) ricercare, creando post unici e di carattere (sii critico, usa un tono simpatico ...) sotto tue specifiche indicazioni per poi essere pubblicati sulle piattaforme che preferisci in maniera completamente automatica.
 
